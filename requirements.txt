@@ -1,0 +1,17 @@
+# IntelliBank AI-Powered Banking Assistant Dependencies
+fastapi>=0.115.0
+uvicorn>=0.30.0
+streamlit>=1.38.0
+pypdf>=4.3.0
+groq>=0.11.0
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+faiss-cpu>=1.8.0
+pydantic>=2.8.0
+python-dotenv>=1.0.0
+reportlab>=4.2.0
+fpdf2>=2.8.0
+requests>=2.32.0
